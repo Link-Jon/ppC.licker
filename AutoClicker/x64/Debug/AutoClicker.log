@@ -1,0 +1,5 @@
+﻿  AutoClicker.cpp
+G:\source\AutoClicker\AutoClicker\AutoClicker.cpp(132,28): warning C4804: '>': unsafe use of type 'bool' in operation
+  json.cpp
+  Generating Code...
+  AutoClicker.vcxproj -> G:\source\AutoClicker\x64\Debug\AutoClicker.exe

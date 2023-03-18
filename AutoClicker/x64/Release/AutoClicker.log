@@ -1,0 +1,8 @@
+﻿  AutoClicker.cpp
+G:\source\AutoClicker\AutoClicker\AutoClicker.cpp(132,28): warning C4804: '>': unsafe use of type 'bool' in operation
+  json.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 111 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  AutoClicker.vcxproj -> G:\source\AutoClicker\x64\Release\AutoClicker.exe
